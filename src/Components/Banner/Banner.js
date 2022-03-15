@@ -1,5 +1,5 @@
 import React ,{useEffect,useState} from 'react'
-import {API_KEY} from '../../Constants/constants'
+import {API_KEY} from '../../constants/constants'
 import "./Banner.css"
 import axios from "../../axios"
 function Banner() {
